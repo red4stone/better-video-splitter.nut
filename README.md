@@ -13,6 +13,7 @@ How-to (the easy way!):
 6) Enjoy!
 
 VIDEO SCALE TYPES LIST
+
 0) Full Elevator
 1) Stretch
 2) Mirror
@@ -31,6 +32,7 @@ VIDEO SCALE TYPES LIST
 15) HyperDash Request - 3Screen
 
 SCREENTYPE LIST
+
 0) `ARRIVAL`
 Normal arrival elevator. Chooses all signs with the form `@arrival_sign_#`
 1) `DEPARTURE`
